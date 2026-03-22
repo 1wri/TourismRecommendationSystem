@@ -1,0 +1,2 @@
+# TourismRecommendationSystem
+基于Python旅游推荐系统带万字文档，基于Python+Django的旅游数据分析推荐系统带万字文档
